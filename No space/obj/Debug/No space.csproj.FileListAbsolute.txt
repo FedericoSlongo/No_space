@@ -1,0 +1,5 @@
+C:\Users\fslongo\source\repos\No space\No space\bin\Debug\No space.exe.config
+C:\Users\fslongo\source\repos\No space\No space\bin\Debug\No space.exe
+C:\Users\fslongo\source\repos\No space\No space\bin\Debug\No space.pdb
+C:\Users\fslongo\source\repos\No space\No space\obj\Debug\No space.exe
+C:\Users\fslongo\source\repos\No space\No space\obj\Debug\No space.pdb
